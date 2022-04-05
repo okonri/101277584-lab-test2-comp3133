@@ -1,0 +1,41 @@
+.details {
+	background: rgb(241, 241, 185);
+	color: black;
+	border-radius: 6px;
+	padding: 30px;
+}
+
+.details mat-card-title {
+	display: inline-block;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	color: rgb(0, 56, 88);
+}
+.details img {
+	width: 240px;
+	height: 240px;
+	float: left;
+	margin: 10px;
+}
+.details mat-card-header {
+	margin-bottom: 10px;
+	font-weight: bold;
+	display: inline-block;
+}
+.details mat-icon {
+	font-size: 30px;
+	padding-left: 10px;
+	color: rgb(0, 56, 88);
+}
+button {
+	background-color: rgb(241, 241, 185); 
+	border-color: rgb(0, 56, 88);
+	color: rgb(0, 0, 0);
+	font-weight: bold; 
+	font-size: 20px;
+	padding: 20px;
+	margin-bottom: 10px;
+	border-radius: 6px;
+}
